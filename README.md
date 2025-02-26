@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Desenvolvedor front-end na <a href="https://g01.com.br" target="_blank">G01 Tech</a><br>🎲 Inglês fluente.</p>
+<p align="left">📚 Desenvolvedor full-stack na <a href="https://g01.tech" target="_blank">G01 Tech</a><br>🎲 Inglês fluente.</p>
 
 ###
 
