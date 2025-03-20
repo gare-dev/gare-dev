@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">Sou o Guilherme Garé, desenvolvedor front end e técnologo em formação.</p>
+<p align="left">I'm Guilherme Alexandre, full stack developer and systems development student</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">📚 Desenvolvedor full-stack na <a href="https://g01.tech" target="_blank">G01 Tech</a><br>🎲 Inglês fluente.</p>
+<p align="left">📚 Full Stack developer at <a href="https://g01.tech" target="_blank">G01 Tech</a><br>🎲 Portuguese and English!</p>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">🛜Redes Sociais</h2>
+<h2 align="left">🛜Social Medias</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/garedev/" target="_blank">
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">🧑‍💻Tecnologias conhecidas</h2>
+<h2 align="left">🧑‍💻Known technologies</h2>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">⏳Aprendendo</h2>
+<h2 align="left">⏳Learning</h2>
 
 ###
 
